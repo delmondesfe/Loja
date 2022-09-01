@@ -1,9 +1,9 @@
-﻿using Loja.Models;
+﻿using SISCAD.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using Oracle.ManagedDataAccess;
 
-namespace Loja.Controllers
+namespace SISCAD.Controllers
 {
     public class HomeController : Controller
     {

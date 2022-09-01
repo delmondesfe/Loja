@@ -1,4 +1,4 @@
-namespace Loja.Models
+namespace SISCAD.Models
 {
     public class ErrorViewModel
     {

@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "Loja": {
+    "SISCAD": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

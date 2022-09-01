@@ -1,4 +1,4 @@
-# Loja
+# SISCAD - Sistema de Recursos Humanos
 
 #Criação de sistema de cadastro de usuários
 
